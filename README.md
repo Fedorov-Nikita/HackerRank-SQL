@@ -4,6 +4,7 @@ SQL task solutions on HackerRank
 
 |Difficulty|Task|Solution|
 |----------|----|--------|
+|🟠 Medium|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-19.sql)|
 |🟠 Medium|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-18.sql)|
 |🟢 Easy|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-17.sql)|
 |🟢 Easy|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-16.sql)|
@@ -29,7 +30,7 @@ SQL task solutions on HackerRank
 |🟢 Easy|[Select By ID](https://www.hackerrank.com/challenges/select-by-id)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/select-by-id.sql)|
 |🟢 Easy|[Select All](https://www.hackerrank.com/challenges/select-all-sql)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/select-all-sql.sql)|
 
-weather-observation-station-1
+
 <!-- 
 |🔴 Hard|[](https://www.hackerrank.com/challenges/)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Hard/.sql)|
 |🟠 Medium|[](https://www.hackerrank.com/challenges/)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/.sql)|
