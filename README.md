@@ -4,6 +4,7 @@ SQL task solutions on HackerRank
 
 |Difficulty|Task|Solution|
 |----------|----|--------|
+|🟠 Medium|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-18.sql)|
 |🟢 Easy|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-17.sql)|
 |🟢 Easy|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-16.sql)|
 |🟢 Easy|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-15.sql)|
