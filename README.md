@@ -14,6 +14,7 @@ SQL task solutions on HackerRank
 |🟢 Easy|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-5.sql)|
 |🟢 Easy|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-4.sql)|
 |🟢 Easy|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-3.sql)| 
+|🟢 Easy|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-2.sql)| 
 |🟢 Easy|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/weather-observation-station-1.sql)| 
 |🟢 Easy|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/revising-the-select-query2.sql)|
 |🟢 Easy|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/revising-the-select-query.sql)|
