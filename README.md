@@ -7,6 +7,7 @@ SQL task solutions on HackerRank
 |🟠 Medium|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-20.sql)|
 |🟠 Medium|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-19.sql)|
 |🟠 Medium|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Medium/weather-observation-station-18.sql)|
+|🟢 Easy|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/what-type-of-triangle.sql)|
 |🟢 Easy|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/salary-of-employees.sql)|
 |🟢 Easy|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/name-of-employees.sql)| 
 |🟢 Easy|[More Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|[Solution](https://github.com/Fedorov-Nikita/HackerRank-SQL/blob/main/Easy/more-than-75-marks.sql)|
